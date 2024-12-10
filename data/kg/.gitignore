@@ -1,0 +1,7 @@
+# The data can be downloaded at
+# https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus
+# or
+# !kaggle datasets download -d ahmedshahriarsakib/uber-eats-usa-restaurants-menus
+
+*
+!.gitignore
